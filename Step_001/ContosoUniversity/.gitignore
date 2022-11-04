@@ -9,7 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.vscode
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -31,7 +30,6 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-vscode/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -350,4 +348,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-Step_001/ContosoUniversity/appsettings.Development.json
